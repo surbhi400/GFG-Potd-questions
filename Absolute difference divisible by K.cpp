@@ -8,7 +8,7 @@ arr[] = {3, 7, 11}
 k = 4
 Output:
 3
-Explanation:
+Explanation:  
 (11-3) = 8 is divisible by 4
 (11-7) = 4 is divisible by 4
 (7-3) = 4 is divisible by 4
